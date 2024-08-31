@@ -8,5 +8,6 @@
     --branco: aliceblue;
     --cinzaborda: rgb(77, 77, 77);
     --verdin: #03FA6E;
-    --fonteprincipal: 'sora';
+    --fonteprincipal: 'Roboto';
+    --fonteSubTitulo: 'Courier New', Courier, monospace;
 }

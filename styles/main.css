@@ -43,5 +43,7 @@ main {
         display: flex;
         text-align: center;
         justify-content: center;
+        color: #03fa6e;
+        font-family: 'Courier New', Courier, monospace;
     }
 }

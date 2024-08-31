@@ -10,7 +10,7 @@
 
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Sora:wght@800&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto+Condensed:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
     <script src="https://kit.fontawesome.com/b3b83db5db.js" crossorigin="anonymous"></script>
 </head>
 
@@ -59,9 +59,9 @@
 
         <section class="linguagem">
             <div class="card-linguagem card">
-                <h2>linguagens de programação</h2>
+                <h2><strong>linguagens de programação</strong></h2>
                 <div class="card-body">
-                <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
                 </div>
             </div>
         </section>
