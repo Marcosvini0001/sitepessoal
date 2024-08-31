@@ -58,12 +58,11 @@
         </section>
 
         <section class="linguagem">
-            <div class="titulo_linguagem">
-                <h2><Strong>Linguagens de programação</Strong></h2>
-            </div>
-
-            <div class="conteudo_linguagem">
-                <p>Aqui vai um conteudo, se Deus quiser algum dia</p>
+            <div class="card-linguagem card">
+                <h2>linguagens de programação</h2>
+                <div class="card-body">
+                <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                </div>
             </div>
         </section>
 

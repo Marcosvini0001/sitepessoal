@@ -1,21 +1,26 @@
-main{
+main {
     display: flex;
-    color:var(--branco);
+    color: var(--branco);
     flex-direction: column;
     justify-content: center;
-   
+
 }
 
-.sobremim{
+.sobremim {
     display: flex;
     justify-content: center;
-    .card-sobre{
+
+    .card-sobre {
         margin: 50px;
         display: flex;
         justify-content: center;
         align-items: center;
         flex-direction: column;
-        img{
+        padding: 100px;
+        background: rgb(0, 0, 0);
+        background: linear-gradient(90deg, rgba(0, 0, 0, 0) 0%, rgba(3, 3, 29, 1) 0%, rgba(3, 3, 35, 1) 50%, rgba(2, 2, 21, 1) 100%);
+        border-radius: 5px;
+        img {
             width: 250px;
             border-radius: 80px;
         }
@@ -23,25 +28,20 @@ main{
 }
 
 
-.conteudo_linguagem{
-    background: linear-gradient(90deg, rgba(0,0,0,0) 0%, rgba(3,3,29,1) 0%, rgba(3,3,35,1) 50%, rgba(2,2,21,1) 100%);
+.linguagem {
+    width: 500px auto;
+    background: linear-gradient(90deg, rgba(0, 0, 0, 0) 0%, rgba(3, 3, 29, 1) 0%, rgba(3, 3, 35, 1) 50%, rgba(2, 2, 21, 1) 100%);
     display: flex;
     color: #ccc;
-    border: 2px solid var(--cinzaborda);
-    padding: 50px;
-    padding-bottom: 400px;
     justify-content: center;
-    margin-left: 400px;
-    margin-right: 400px;
 
+    .card-linguagem {
+        width: 800px;
+    }
+
+    h2 {
+        display: flex;
+        text-align: center;
+        justify-content: center;
+    }
 }
-
-h2{
-    display: flex;
-    text-align: center;
-    justify-content: center;
-}
-
-
-
-
