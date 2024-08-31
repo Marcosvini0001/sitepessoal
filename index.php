@@ -51,18 +51,16 @@
         <section class="sobremim">
             <div class="card-sobre card" style="width: 18rem;">
                 <img src="imagens/mvni.PNG" class="card-img-top" alt="Marcos Vinicius B.S.">
-                <div class="card-body">
-                    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                </div>
+                <h2>Marcos Vinicius Bartoli Senko</h2>
+                <p>< Some quick example text to build on the card title and make up
+                     the bulk of the card's content. /></p>
             </div>
         </section>
 
         <section class="linguagem">
             <div class="card-linguagem card">
                 <h2><strong>linguagens de programação</strong></h2>
-                <div class="card-body">
-                    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                </div>
+                <p class="card-text">< Some quick example text to build on the card title and make up the bulk of the card's content. /></p>
             </div>
         </section>
 
