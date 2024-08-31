@@ -61,6 +61,14 @@
             <div class="card-linguagem card">
                 <h2><strong>linguagens de programação</strong></h2>
                 <p class="card-text">< Some quick example text to build on the card title and make up the bulk of the card's content. /></p>
+
+
+                <div class="icons-linguagem">
+                <p class="icon-html"><i class="fa-brands fa-html5"></i></i></p>
+                <p class="icon-css"><i class="fa-brands fa-css3-alt"></i></p>
+                <p class="icon-js"><i class="fa-brands fa-js"></i></p>
+                </div>
+            
             </div>
         </section>
 
