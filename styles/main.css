@@ -6,35 +6,24 @@ main{
    
 }
 
-.titulo_sobremim{
+.sobremim{
     display: flex;
-    text-align: center;
     justify-content: center;
-}
-
-.conteudo_sobremim{
-    background: rgb(0,0,0);
-    background: linear-gradient(90deg, rgba(0,0,0,0) 0%, rgba(3,3,29,1) 0%, rgba(3,3,35,1) 50%, rgba(2,2,21,1) 100%);
-    display: flex;
-    color: #ccc;
-    border: 2px solid var(--cinzaborda);
-    padding: 50px;
-    padding-bottom: 400px;
-    justify-content: center;
-    margin-left: 400px;
-    margin-right: 400px;
-    margin-bottom: 100px;
-}
-
-.foto_sobremim{
-    text-align: center;
-    border: 2px solid var(--cinzaborda);
-    padding: 80px;
+    .card-sobre{
+        margin: 50px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        img{
+            width: 250px;
+            border-radius: 80px;
+        }
+    }
 }
 
 
 .conteudo_linguagem{
-    background: rgb(0,0,0);
     background: linear-gradient(90deg, rgba(0,0,0,0) 0%, rgba(3,3,29,1) 0%, rgba(3,3,35,1) 50%, rgba(2,2,21,1) 100%);
     display: flex;
     color: #ccc;
@@ -47,7 +36,7 @@ main{
 
 }
 
-h3{
+h2{
     display: flex;
     text-align: center;
     justify-content: center;
