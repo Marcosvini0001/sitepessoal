@@ -53,7 +53,7 @@
     
             <div class="conteudo_sobremim">
                 <div class="foto_sobremim">
-                    <img src=""  alt="" title="">
+                    <img src="imagens/mvni.PNG"  alt="" title="">
                 </div>
 
                 
@@ -75,7 +75,7 @@
         <p>Desenvolvido por <br> Marcos Vinicius Bartoli Senko em 2024</p>
     </footer>
     <script>
-        window.alert("Site ainda em construção!")
+        window.alert("Site ainda em desenvolvimento!")
     </script>
 </body>
 </html>
