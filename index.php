@@ -23,23 +23,26 @@
         </div>
         <div class="homes">
             <div class="topico">
-                <h4>Veja mais</h4>
-                <a href="">
-                    <i class="fa-solid fa-user-plus"></i>
+                <a href="vejamais.php">
+                <i id="top-icon" class="fa-solid fa-plus">
+                   Veja mais 
+                </i>                
                 </a>
             </div>
 
             <div class="topico">
-                <h2>Home</h2>
-                <a href="index.html">
-                    <i class="fa-solid fa-house"></i>
+                <a href="index.php">
+                    <i id="top-icon" class="fa-solid fa-house">
+                    Home
+                    </i>
                 </a>
             </div>
 
             <div class="topico">
-                <h3>Projetos</h3>
-                <a href="">
-                    <i class="fa-solid fa-bars-progress"></i>
+                <a href="projetos.php">
+                    <i id="top-icon" class="fa-solid fa-bars-progress">
+                    Projetos
+                    </i>
                 </a>
 
             </div>
@@ -64,9 +67,9 @@
 
 
                 <div class="icons-linguagem">
-                <p class="icon-html"><i class="fa-brands fa-html5"></i></i></p>
-                <p class="icon-css"><i class="fa-brands fa-css3-alt"></i></p>
-                <p class="icon-js"><i class="fa-brands fa-js"></i></p>
+                <p class="icon-html"><i class="fa-brands fa-html5" title="HTML5" alt="HTML5"></i></i></p>
+                <p class="icon-css"><i class="fa-brands fa-css3-alt" title="CSS" alt="CSS"></i></p>
+                <p class="icon-js"><i class="fa-brands fa-js" title="JavaScript" alt="JavaScript" ></i></p>
                 </div>
             
             </div>
