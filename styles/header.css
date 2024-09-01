@@ -20,15 +20,14 @@ header {
     justify-content: center;
     color: white;
     padding: 16px;
-    .top-icon{
-        color: red;
-    }
+    /*#top-icon{
+        font-family: var(--fonteprincipal);
+    }*/
 }
 
 .homes {
     display: flex;
     justify-content: center;
-
 }
 
 div a i {
