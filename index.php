@@ -24,25 +24,19 @@
         <div class="homes">
             <div class="topico">
                 <a href="vejamais.php">
-                    <i id="top-icon" class="fa-solid fa-plus">
-                        Veja mais
-                    </i>
+                 <p>Veja Mais</p>
                 </a>
             </div>
 
             <div class="topico">
                 <a href="index.php">
-                    <i id="top-icon" class="fa-solid fa-house">
-                        Home
-                    </i>
+                   <p>Home</p>
                 </a>
             </div>
 
             <div class="topico">
                 <a href="projetos.php">
-                    <i id="top-icon" class="fa-solid fa-bars-progress">
-                        Projetos
-                    </i>
+                  <p>Projetos</p>
                 </a>
 
             </div>
