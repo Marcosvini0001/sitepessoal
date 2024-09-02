@@ -20,29 +20,27 @@ header {
     justify-content: center;
 }
 
-/* Centralizar a div na tela */
+
 .menu {
     display: flex;
-    justify-content: center; /* Centraliza horizontalmente */
-    align-items: center; /* Centraliza verticalmente */
-    height: 100vh; /* Faz a div ocupar toda a altura da tela */
-  }
-  
-  /* Colocar os itens da lista lado a lado */
-  .menucenter {
-    display: flex;
-    list-style-type: none; /* Remove os marcadores de lista */
-    padding: 0;
-  }
-  
-  .menucenter li {
-    margin: 0 15px; /* Espaço entre os itens */
-  }
-  
-  /* Estilo dos links */
-  .menucenter li a {
-    text-decoration: none; /* Remove sublinhado dos links */
-    color: black; /* Cor do texto */
-    font-weight: bold;
+    justify-content: center; 
+    align-items: center; 
+    .menucenter {
+        display: flex;
+        list-style-type: none; 
+        padding: 0;
+        li {
+            margin: 0 15px; 
+          }
+          a{
+            text-decoration: none; 
+            color: rgb(255, 255, 255); 
+            font-weight: bold;
+          }
+          a:hover{
+            color: var(--verdin);
+            transition: 0.5s;
+          }
+      }
   }
   
