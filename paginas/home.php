@@ -11,18 +11,21 @@
         </div>
     </section>
 
+
+    <!--<div class="img-cel">
+        <img src="imagens/celular.png">
+    </div> -->
     <div class="redes">
         <a href="#" target="_blank">
-            <i class="fa-brands fa-instagram"></i>
+            <i id="icon-insta" class="fa-brands fa-instagram"></i>
         </a>
         <a href="#" target="_blank">
-            <i class="fa-brands fa-github"></i>
+            <i id="icon-github" class="fa-brands fa-github"></i>
         </a>
         <a href="#" target="_blank">
-            <i class="fa-brands fa-linkedin"></i>
+            <i id="icon-linkedin" class="fa-brands fa-linkedin"></i>
         </a>
     </div>
-
 
     <section class="linguagem">
         <div class="card-linguagem card">

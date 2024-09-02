@@ -85,9 +85,20 @@ main {
 .redes{
     display: flex;
     justify-content: center;
-    gap: 16px;
+    gap: 64px;
     padding: 20px;
+    z-index: -30px;
     a{
         text-decoration: none;
+        font-size: 80px;
+    }
+    #icon-insta{
+        color: #E4405F;
+    }
+    #icon-github{
+        color: #181717;
+    }
+    #icon-linkedin{
+        color: #0077B5;
     }
 }
