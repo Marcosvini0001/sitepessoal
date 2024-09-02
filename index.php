@@ -23,6 +23,12 @@
 
     <header>
 
+       <!-- <div class="contato">
+            <a href="">
+                <i class="fa-solid fa-envelope"></i>
+            </a>
+        </div> -->
+
         <div class="logo">
             <img src="imagens/logo.png" alt="Marcos Vinicius" title="Marcos Vinicius">
         </div>
@@ -33,26 +39,14 @@
             <a href="index.php?pagina=vejamais">Veja Mais</a>
         </div>
 
-        <div class="contato">
-            <a href="">
-                <i class="fa-solid fa-envelope"></i>
-            </a>
-        </div>
-
     </header>
 
     <main>
         <?php
-        // Imprimir o conteúdo do array do GET
-        // print_r($_GET);
-
-        // Recuperar a variável página
         $pagina = $_GET["pagina"] ?? "home";
 
-        // Definir o caminho da página
         $pagina = "paginas/{$pagina}.php";
 
-        // Verificar se o arquivo existe
         if (file_exists($pagina)) {
             include $pagina;
         } else {

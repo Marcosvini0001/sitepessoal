@@ -16,13 +16,13 @@
         <img src="imagens/celular.png">
     </div> -->
     <div class="redes">
-        <a href="#" target="_blank">
+        <a href="https://www.instagram.com/marcosvn06/" target="_blank">
             <i id="icon-insta" class="fa-brands fa-instagram"></i>
         </a>
-        <a href="#" target="_blank">
+        <a href="https://github.com/Marcosvini0001" target="_blank">
             <i id="icon-github" class="fa-brands fa-github"></i>
         </a>
-        <a href="#" target="_blank">
+        <a href="https://www.linkedin.com/in/marcos-vinicius-485726297/" target="_blank">
             <i id="icon-linkedin" class="fa-brands fa-linkedin"></i>
         </a>
     </div>
