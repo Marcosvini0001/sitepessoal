@@ -35,7 +35,7 @@
 
         <div class="contato">
             <a href="">
-                <i class="fa-solid fa-envelope">Entre em Contato</i>
+                <i class="fa-solid fa-envelope"></i>
             </a>
         </div>
 

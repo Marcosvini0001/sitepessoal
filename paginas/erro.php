@@ -1,3 +1,9 @@
 <main>
-    <h3>ERROR 404</h3>
+
+    <div class="erro-text">
+        <h3>ERRO 404: Deu Ruim, Brother!</h3>
+
+        <p>Parece que você tentou acessar um servidor que estava sem combustível.
+            Tente atualizar a página ou volte para a pista principal!</p>
+    </div>
 </main>
