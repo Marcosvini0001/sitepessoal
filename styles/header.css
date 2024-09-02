@@ -41,8 +41,12 @@ header {
 .contato{
     display: flex;
     gap: 6px;
+    justify-content: flex-end;
     a{
         color: white;
         text-decoration: none;
+    }
+    i{
+        color: white;
     }
 }
