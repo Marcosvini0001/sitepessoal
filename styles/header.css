@@ -14,25 +14,35 @@ header {
     padding-top: 0px;
 }
 
-.topico {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    color: white;
-    padding: 16px;
-}
 
 .homes {
     display: flex;
     justify-content: center;
 }
 
-div a i {
-    color: white;
-}
-
-h2,
-h3,
-h4 {
-    padding-right: 8px;
-}
+/* Centralizar a div na tela */
+.menu {
+    display: flex;
+    justify-content: center; /* Centraliza horizontalmente */
+    align-items: center; /* Centraliza verticalmente */
+    height: 100vh; /* Faz a div ocupar toda a altura da tela */
+  }
+  
+  /* Colocar os itens da lista lado a lado */
+  .menucenter {
+    display: flex;
+    list-style-type: none; /* Remove os marcadores de lista */
+    padding: 0;
+  }
+  
+  .menucenter li {
+    margin: 0 15px; /* Espaço entre os itens */
+  }
+  
+  /* Estilo dos links */
+  .menucenter li a {
+    text-decoration: none; /* Remove sublinhado dos links */
+    color: black; /* Cor do texto */
+    font-weight: bold;
+  }
+  

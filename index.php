@@ -4,7 +4,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="styles/style.css">
+
+    <base href="home">
+
     <title>Marcos V.B.S.</title>
     <link rel="shortcut icon" href="imagens/title.png">
 
@@ -12,6 +14,9 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Roboto+Condensed:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
     <script src="https://kit.fontawesome.com/b3b83db5db.js" crossorigin="anonymous"></script>
+
+    <link rel="stylesheet" href="styles/style.css">
+
 </head>
 
 <body>
@@ -21,29 +26,17 @@
         <div class="logo">
             <img src="imagens/logo.png" alt="Marcos Vinicius" title="Marcos Vinicius">
         </div>
-        <div class="homes">
-            <div class="topico">
-                <a href="vejamais.php">
-                 <p>Veja Mais</p>
-                </a>
-            </div>
 
-            <div class="topico">
-                <a href="index.php">
-                   <p>Home</p>
-                </a>
-            </div>
-
-            <div class="topico">
-                <a href="projetos.php">
-                  <p>Projetos</p>
-                </a>
-
-            </div>
+        <div class="menu">
+            <ul class="menucenter">
+                <li><a href="index.php?paginas=home">Home</a></li>
+                <li><a href="index.php?paginas=projetos">Projetos</a></li>
+                <li><a href="index.php?paginas=vejamais">Veja Mais</a></li>
+            </ul>
         </div>
 
-
     </header>
+    
     <main>
         <section class="sobremim">
             <div class="card-sobre card" style="width: 18rem;">
