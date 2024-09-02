@@ -37,3 +37,12 @@ header {
         transition: 0.5s;
     }
 }
+
+.contato{
+    display: flex;
+    gap: 6px;
+    a{
+        color: white;
+        text-decoration: none;
+    }
+}

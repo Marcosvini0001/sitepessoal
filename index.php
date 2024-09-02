@@ -33,6 +33,11 @@
             <a href="index.php?pagina=vejamais">Veja Mais</a>
         </div>
 
+        <div class="contato">
+            <i class="fa-solid fa-envelope"></i>
+            <a href="">Entre em Contato</a> 
+        </div>
+
     </header>
 
     <main>

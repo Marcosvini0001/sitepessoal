@@ -13,7 +13,7 @@
 
     <section class="linguagem">
         <div class="card-linguagem card">
-            <h2><strong>linguagens de programação</strong></h2>
+            <h2><strong>linguagens de programação/HyperText</strong></h2>
             <p class="card-text">
                 < Estou no início da minha jornada como desenvolvedor e já tenho conhecimentos sólidos em HTML e CSS, que uso para criar e estilizar páginas web. Quanto ao JavaScript, estou estudando e aprimorando minhas habilidades, mas ainda não tenho domínio total. Estou sempre em busca de aprender mais para me tornar um programador completo. />
             </p>
