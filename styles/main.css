@@ -81,3 +81,13 @@ main {
         } 
     }
 }
+
+.redes{
+    display: flex;
+    justify-content: center;
+    gap: 16px;
+    padding: 20px;
+    a{
+        text-decoration: none;
+    }
+}

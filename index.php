@@ -34,8 +34,9 @@
         </div>
 
         <div class="contato">
-            <i class="fa-solid fa-envelope"></i>
-            <a href="">Entre em Contato</a> 
+            <a href="">
+                <i class="fa-solid fa-envelope">Entre em Contato</i>
+            </a>
         </div>
 
     </header>
