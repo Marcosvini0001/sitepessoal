@@ -28,18 +28,14 @@
         </div>
 
         <div class="menu">
-            <ul class="menucenter">
-                <li><a href="index.php?paginas=home">Home</a></li>
-                <li><a href="index.php?paginas=projetos">Projetos</a></li>
-                <li><a href="index.php?paginas=vejamais">Veja Mais</a></li>
-            </ul>
+            <a href="index.php?pagina=home">Home</a>
+            <a href="index.php?pagina=projetos">Projetos</a>
+            <a href="index.php?pagina=vejamais">Veja Mais</a>
         </div>
 
     </header>
 
     <main>
-
-
         <?php
         // Imprimir o conteúdo do array do GET
         // print_r($_GET);
@@ -57,8 +53,8 @@
             include "paginas/erro.php";
         }
         ?>
-
     </main>
+
     <footer>
         <p>Desenvolvido por <br> Marcos Vinicius Bartoli Senko em 2024</p>
     </footer>

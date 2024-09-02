@@ -25,22 +25,14 @@ header {
     display: flex;
     justify-content: center; 
     align-items: center; 
-    .menucenter {
-        display: flex;
-        list-style-type: none; 
-        padding: 0;
-        li {
-            margin: 0 15px; 
-          }
-          a{
-            text-decoration: none; 
-            color: rgb(255, 255, 255); 
-            font-weight: bold;
-          }
-          a:hover{
-            color: var(--verdin);
-            transition: 0.5s;
-          }
-      }
-  }
-  
+    gap: 32px;
+    padding: 16px;
+    a{
+        color: white;
+        text-decoration: none;
+    }
+    a:hover{
+        color: var(--verdin);
+        transition: 0.5s;
+    }
+}
