@@ -7,7 +7,7 @@
 
     <base href="home">
 
-    <title>Marcos V.B.S.</title>
+    <title>Marcos Vinicius - Desenvolvedor</title>
     <link rel="shortcut icon" href="imagens/title.png">
 
     <link rel="preconnect" href="https://fonts.googleapis.com">

@@ -1,5 +1,5 @@
-.erro-text{
+.erro{
     display: flex;
     justify-content: center;
-    text-align: center;
-}    
+    padding: 300px;
+}
