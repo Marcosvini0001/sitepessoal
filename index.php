@@ -56,7 +56,7 @@
     </main>
 
     <footer>
-        <p>Desenvolvido por <br> Marcos Vinicius Bartoli Senko em 2024</p>
+        <p>Desenvolvido por <br> Marcos Vinicius Bartoli Senko em 2024 &copy;</p>
     </footer>
     <script src="index.js"></script>
 </body>

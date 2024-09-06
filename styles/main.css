@@ -21,7 +21,7 @@ main {
         background: linear-gradient(90deg, rgba(0, 0, 0, 0) 0%, rgba(3, 3, 29, 1) 0%, rgba(3, 3, 35, 1) 50%, rgba(2, 2, 21, 1) 100%);
         border-radius: 5px;
 
-        img{
+        img {
             width: 250px;
             border-radius: 80px;
             cursor: pointer;
@@ -78,27 +78,45 @@ main {
         .icon-js {
             font-size: 80px;
             cursor: pointer;
-        } 
+        }
     }
 }
 
-.redes{
+.redes {
     display: flex;
     justify-content: center;
     gap: 64px;
     padding: 20px;
     z-index: -30px;
-    a{
+
+    .rede-insta,
+    .rede-github,
+    .rede-linkedin {
+        background-color: transparent;
+        box-shadow: 2px 2px 2px 2px black;
+        padding: 30px;
+        transition: transform 0.3s ease;
+    }
+    .rede-insta:hover,
+    .rede-github:hover,
+    .rede-linkedin:hover {
+        transform: scale(1.2);
+    }
+
+    a {
         text-decoration: none;
         font-size: 80px;
     }
-    #icon-insta{
+
+    #icon-insta {
         color: #E4405F;
     }
-    #icon-github{
+
+    #icon-github {
         color: #181717;
     }
-    #icon-linkedin{
+
+    #icon-linkedin {
         color: #0077B5;
     }
 }
