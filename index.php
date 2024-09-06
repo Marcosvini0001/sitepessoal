@@ -35,9 +35,11 @@
 
         <div class="menu">
             <a href="index.php?pagina=home">Home</a>
-            <a href="index.php?pagina=projetos">Projetos</a>
-            <a href="index.php?pagina=vejamais">Veja Mais</a>
+            <a id="projetos" href="#">Projetos</a>
+            <a id="vejaMais" href="#">Veja Mais</a>
         </div>
+
+        <span class="class-mensagem" id="mensagem"></span>
 
     </header>
 
