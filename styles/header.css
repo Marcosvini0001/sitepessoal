@@ -6,6 +6,7 @@ header {
     padding-bottom: -8px;
     border: 2px solid rgb(77, 77, 77);
     border-radius: 8px;
+    box-sizing: border-box;
 }
 
 .logo {
