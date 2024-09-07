@@ -8,6 +8,7 @@ footer{
     padding-top: 20px;
     padding-bottom: 20px;
     font-family: var(--fonteprincipal);
+    box-sizing: border-box;
 }
 footer, p{
     color: white;

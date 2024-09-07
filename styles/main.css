@@ -9,6 +9,7 @@ main {
 .sobremim {
     display: flex;
     justify-content: center;
+    width: auto;
 
     .card-sobre {
         margin: 50px;
@@ -118,5 +119,17 @@ main {
 
     #icon-linkedin {
         color: #0077B5;
+    }
+}
+
+@media only screen and (max-width: 530px) {
+    .redes {
+        display: flex;
+        flex-direction: column;
+        align-items: center; /* opcional, para centralizar os ícones */
+    }
+
+    .redes a {
+        margin-bottom: 10px; /* Adiciona espaço entre os links, opcional */
     }
 }
