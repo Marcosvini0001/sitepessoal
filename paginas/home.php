@@ -11,6 +11,20 @@
         </div>
     </section>
 
+    <div class="card sobre-resp">
+        <div class="img-resp">
+            <img src="imagens/mvni.png" alt="Marcos Vinicius Bartoli Senko" title="Marcos Vinicius Bartoli Senko">
+        </div>
+        <div class="card-body">
+            <h3>Marcos Vinicius Bartoli Senko</h3>
+            <p>
+                < 🔌 Conectando... Usuário detectado: Marcos Vinicius, 20 anos, de Campo Mourão - PR. Estou no segundo período de Análise e Desenvolvimento de Sistemas (TADS) e estou em constante evolução para me tornar um desenvolvedor/programador.<br>
+
+                    <br>Sempre em busca de novos desafios e conhecimentos, estou comprometido em construir um futuro na área de tecnologia. />
+            </p>
+        </div>
+    </div>
+
 
     <!--<div class="img-cel">
         <img src="imagens/celular.png">

@@ -19,7 +19,6 @@ main {
         background: rgb(0, 0, 0);
         background: linear-gradient(90deg, rgba(0, 0, 0, 0) 0%, rgba(3, 3, 29, 1) 0%, rgba(3, 3, 35, 1) 50%, rgba(2, 2, 21, 1) 100%);
         border-radius: 5px;
-
         img {
             width: 250px;
             border-radius: 80px;
@@ -32,6 +31,25 @@ main {
             text-align: center;
             color: var(--verdin);
         }
+    }
+}
+
+.sobre-resp{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin: 50px;
+    background: rgb(0, 0, 0);
+    background: linear-gradient(90deg, rgba(0, 0, 0, 0) 0%, rgba(3, 3, 29, 1) 0%, rgba(3, 3, 35, 1) 50%, rgba(2, 2, 21, 1) 100%);
+    padding: 20px;
+    border-radius: 5px;
+    img{
+        width: 180px;
+        border-radius: 20px;
+    }
+    h3{
+        color: var(--verdin);
     }
 }
 
@@ -129,5 +147,17 @@ main {
 
     .redes a {
         margin-bottom: 10px; /* Adiciona espaço entre os links, opcional */
+    }
+}
+
+@media only screen and (max-width: 490px){
+    .sobremim{
+        display: none;
+    }
+}
+
+@media only screen and (min-width: 491px){
+    .sobre-resp{
+        display: none;
     }
 }
