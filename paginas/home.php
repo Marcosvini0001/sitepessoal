@@ -13,7 +13,7 @@
 
     <div class="card sobre-resp">
         <div class="img-resp">
-            <img src="imagens/mvni.png" alt="Marcos Vinicius Bartoli Senko" title="Marcos Vinicius Bartoli Senko">
+            <img src="imagens/mvni.PNG" alt="Marcos Vinicius Bartoli Senko" title="Marcos Vinicius Bartoli Senko">
         </div>
         <div class="card-body">
             <h3>Marcos Vinicius Bartoli Senko</h3>
