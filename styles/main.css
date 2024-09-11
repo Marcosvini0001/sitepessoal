@@ -178,7 +178,7 @@ main {
         padding: 60px;
         box-sizing: border-box;
     }
-    p{
+    .p-status{
         color: var(--verdin);
     }
     span{
@@ -186,6 +186,9 @@ main {
         background-color: red;
         padding: 4px;
         border-radius: 20px;
+    }
+    h2{
+        color: var(--verdin);
     }
 
 }

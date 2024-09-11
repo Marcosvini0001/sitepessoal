@@ -25,12 +25,6 @@
 
     <header>
 
-        <!-- <div class="contato">
-            <a href="">
-                <i class="fa-solid fa-envelope"></i>
-            </a>
-        </div> -->
-
         <div class="logo">
             <img src="imagens/logo.png" alt="Marcos Vinicius" title="Marcos Vinicius">
         </div>
