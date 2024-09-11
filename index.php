@@ -24,7 +24,7 @@
 
     <header>
 
-       <!-- <div class="contato">
+        <!-- <div class="contato">
             <a href="">
                 <i class="fa-solid fa-envelope"></i>
             </a>
@@ -35,8 +35,8 @@
         </div>
 
         <div class="menu">
-            <a href="index.php?pagina=home">Home</a>
-            <a id="projetos" href="#">Projetos</a>
+            <a href="home">Home</a>
+            <a id="#" href="projetos">Projetos</a>
             <a id="vejaMais" href="#">Veja Mais</a>
         </div>
 
@@ -46,6 +46,7 @@
 
     <main>
         <?php
+
         $pagina = $_GET["pagina"] ?? "home";
 
         $pagina = "paginas/{$pagina}.php";
@@ -55,6 +56,7 @@
         } else {
             include "paginas/erro.php";
         }
+
         ?>
     </main>
 
