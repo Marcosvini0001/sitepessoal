@@ -17,6 +17,7 @@
     <script src="https://kit.fontawesome.com/b3b83db5db.js" crossorigin="anonymous"></script>
 
     <link rel="stylesheet" href="styles/style.css">
+    
 
 </head>
 
@@ -36,7 +37,7 @@
 
         <div class="menu">
             <a href="home">Home</a>
-            <a id="projetos" href="#">Projetos</a>
+            <a id="#" href="projetos">Projetos</a>
             <a id="vejaMais" href="#">Veja Mais</a>
         </div>
 

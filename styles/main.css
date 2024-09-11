@@ -161,3 +161,31 @@ main {
         display: none;
     }
 }
+
+
+.class-projetos{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    .div-projetos{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        width: 800px;
+        margin: 100px;
+        padding: 60px;
+        box-sizing: border-box;
+    }
+    p{
+        color: var(--verdin);
+    }
+    span{
+        color: white;
+        background-color: red;
+        padding: 4px;
+        border-radius: 20px;
+    }
+
+}
