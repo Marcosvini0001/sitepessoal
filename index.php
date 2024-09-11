@@ -36,7 +36,7 @@
 
         <div class="menu">
             <a href="home">Home</a>
-            <a id="#" href="projetos">Projetos</a>
+            <a id="projetos" href="#">Projetos</a>
             <a id="vejaMais" href="#">Veja Mais</a>
         </div>
 
