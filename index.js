@@ -1,7 +1,5 @@
 
-
-
-const projetosLink = document.getElementById('projetos');
+//const projetosLink = document.getElementById('projetos');
 const vejaMaisLink = document.getElementById('vejaMais');
 const mensagemSpan = document.getElementById('mensagem');
 
@@ -17,10 +15,10 @@ function mostrarMensagem() {
 }
 
 
-projetosLink.addEventListener('click', (e) => {
+/*projetosLink.addEventListener('click', (e) => {
     e.preventDefault(); 
     mostrarMensagem(); 
-});
+}); */
 
 vejaMaisLink.addEventListener('click', (e) => {
     e.preventDefault();
