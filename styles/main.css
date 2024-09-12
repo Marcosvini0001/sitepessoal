@@ -177,8 +177,10 @@ main {
         margin: 100px;
         padding: 60px;
         box-sizing: border-box;
-        border: 4px solid black;
+        border: 2px solid black;
         border-radius: 4px;
+        box-shadow: 0 20px 30px rgba(0, 0, 0, 0.3), 
+                0 20px 30px rgba(0, 0, 0, 0.3);
         .div-ling{
             display: flex;
             gap: 16px;
