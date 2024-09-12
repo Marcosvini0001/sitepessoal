@@ -26,9 +26,6 @@
     </div>
 
 
-    <!--<div class="img-cel">
-        <img src="imagens/celular.png">
-    </div> -->
     <div class="redes">
         <a class="rede-insta" href="https://www.instagram.com/marcosvn06/" target="_blank">
             <i id="icon-insta" class="fa-brands fa-instagram"></i>
