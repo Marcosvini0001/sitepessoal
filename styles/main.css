@@ -211,6 +211,11 @@ main {
                 font-size: 40px;
                 cursor: pointer;
             }
+            .icon-java{
+                color: #F57C00;
+                font-size: 40px;
+                cursor: pointer;
+            }
         }
     }
 
