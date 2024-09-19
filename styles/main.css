@@ -115,16 +115,14 @@ main {
     .rede-github,
     .rede-linkedin {
         background-color: transparent;
-        box-shadow: 2px 2px 2px 2px black;
+        box-shadow: 1.5px 1px 1.5px 1.5px black;
         padding: 30px;
-        transition: transform 0.3s ease;
     }
 
-    .rede-insta:hover,
-    .rede-github:hover,
-    .rede-linkedin:hover {
+    #icon-insta:hover, #icon-github:hover, #icon-linkedin:hover{
         transform: scale(1.2);
     }
+
 
     a {
         text-decoration: none;
@@ -133,14 +131,17 @@ main {
 
     #icon-insta {
         color: #E4405F;
+        transition: transform 0.5s ease;
     }
 
     #icon-github {
         color: #181717;
+        transition: transform 0.5s ease;
     }
 
     #icon-linkedin {
         color: #0077B5;
+        transition: transform 0.5s ease;
     }
 }
 
