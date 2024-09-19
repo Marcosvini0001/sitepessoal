@@ -7,8 +7,7 @@
             <h2><strong>Green Life - Portfólio</strong></h2>
             <p class="p-status">Status: <span>Em Desenvolvimento</span></p>
             <div class="card-projetos">
-                <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Possimus, rerum commodi asperiores ex adipisci assumenda illo blanditiis aut.
-                    Laboriosam odio accusamus eos eum necessitatibus repellendus magni mollitia id laudantium saepe?</p>
+                <p>Site desenvolvido para portfólio. Com tema aleatório, desenvolvi o "GreenLife" com tema de produtos naturais. Com cards para produtos, carrinho etc... </p>
             </div>
 
             <div id="carouselExample" class="carousel slide">
@@ -41,11 +40,10 @@
         </div>
 
         <div class="div-projetos">
-            <h2><strong>Projeto 1</strong></h2>
+            <h2><strong>A última Chave</strong></h2>
             <p class="p-status">Status: <span>Em Desenvolvimento</span></p>
             <div class="card-projetos">
-                <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Possimus, rerum commodi asperiores ex adipisci assumenda illo blanditiis aut.
-                    Laboriosam odio accusamus eos eum necessitatibus repellendus magni mollitia id laudantium saepe?</p>
+                <p>Projeto desenvolvido através de trabalho da faculdade. Intuito era construir um jogo text-adventure com linguagem JAVA + MySql.</p>
             </div>
 
             <div id="carouselExample" class="carousel slide">
@@ -74,6 +72,7 @@
                 <p class="icon-css"><i id="css" class="fa-brands fa-css3-alt" title="CSS" alt="CSS"></i></p>
                 <p class="icon-js"><i id="js" class="fa-brands fa-js" title="JavaScript" alt="JavaScript"></i></p>
                 <p class="icon-java"><i class="fa-brands fa-java" title="JAVA" alt="JAVA"></i></p>
+                <p class="icon-banco"><i class="fa-solid fa-database" title="MySQL" alt="MySQL"></i></p>
             </div>
 
         </div>

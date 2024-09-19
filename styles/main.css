@@ -216,6 +216,11 @@ main {
                 font-size: 40px;
                 cursor: pointer;
             }
+            .icon-banco{
+                color: #007bff;
+                font-size: 40px;
+                cursor: pointer;
+            }
         }
     }
 
