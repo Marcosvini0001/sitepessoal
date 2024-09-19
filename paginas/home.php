@@ -1,8 +1,10 @@
 <main>
     <section class="sobremim">
         <div class="card-sobre card" style="width: 18rem;">
-            <img src="imagens/mvni.PNG" class="card-img-top" alt="Marcos Vinicius B.S.">
-            <h2>Marcos Vinicius Bartoli Senko</h2>
+            <div class="img-nome">
+                <img src="imagens/mvni.PNG" class="card-img-top" alt="Marcos Vinicius B.S.">
+                <h2>Marcos Vinicius Bartoli Senko</h2>
+            </div>
             <p>
                 < 🔌 Conectando... Usuário detectado: Marcos Vinicius, 20 anos, de Campo Mourão - PR. Estou no segundo período de Análise e Desenvolvimento de Sistemas (TADS) e estou em constante evolução para me tornar um desenvolvedor/programador.<br>
 
